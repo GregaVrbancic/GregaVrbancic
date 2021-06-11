@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GregaVrbancic?tab=repositories&q=&type=source](https://github.com/GregaVrbancic?tab=repositories&q=&type=source)
 
-- 📝 I regulary write articles on [https://grega.xyz/](https://grega.xyz/)
+- 📝 I sometimes write articles on [https://grega.xyz/](https://grega.xyz/)
 
 - 💬 Ask me about **deep learning and nature inspired population based metaheuristics.**
 
