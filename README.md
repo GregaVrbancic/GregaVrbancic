@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grega</h1>
-<h3 align="center">A passionate deep learning entusiast and data scientist working as a Teaching Assistant with PhD at the University of Maribor, Slovenia.</h3>
+<h3 align="center">A passionate deep learning entusiast and data scientist working as a Assistant Professor at the University of Maribor, Slovenia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregavrbancic" alt="gregavrbancic" /> </p>
 
