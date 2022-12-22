@@ -28,6 +28,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          config_display: large
           config_timezone: Europe/Ljubljana
           config_twemoji: yes
           plugin_achievements: yes
