@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **grega@grega.xyz**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregavrbancic&show_icons=true" alt="gregavrbancic" /></p>
+![Metrics](github-metrics.svg)
 
 <p align="center">
 <a href="https://twitter.com/gregavrbancic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gregavrbancic" height="30" width="30" /></a>
