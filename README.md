@@ -14,11 +14,3 @@
 - 📫 How to reach me **grega@grega.xyz**
 
 ![Metrics](github-metrics.svg)
-
-
-🙌 You can support my work with donations 🙌
-
-- Bitcoin: 356y5uzyTsrXBGUGJWhU4fetcQKHKHW8YA
-- bitcoincash:pq4urptppsc6g7uxw2tpggqvr3482z4lts3p66xuxr
-- Lumen: GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM
-- ZCash: zs18a47ucg2hpg8tprejvxkmtmghr288eqe67snlm6wnsm3rd3kp6lml3tleh74tx5veur2gk7c8hl
